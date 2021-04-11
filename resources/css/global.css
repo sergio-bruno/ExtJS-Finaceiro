@@ -1,0 +1,216 @@
+.x-form-field {
+	margin: 0 0 1 0;
+	font:normal 11px tahoma;
+}
+.x-form-empty-field { color: #000 !important; }
+.x-panel-body, .x-form-cb-label, .x-form-item-label{
+	font:normal 11px tahoma;
+	/*background: #f6f6f6;*/
+}
+.no-background {
+	background: none !important;
+	border: none !important;
+}
+.grid-inactive-row .x-grid-cell{ color: gray !important; }
+
+.grid-itplanejamento-consumo-inferior-row .x-grid-cell {color: red !important;}
+.grid-itplanejamento-consumo-superior-row .x-grid-cell {color: blue !important;}
+
+.grid-linha-azul .x-grid-cell {color: blue !important;}
+.grid-linha-verde .x-grid-cell {color: green !important;}
+.grid-linha-vermelho .x-grid-cell {color: red !important;}
+
+.grid-icon-column-header .x-column-header-text {
+    display: block;
+    height: 22px;
+    width: 16px;
+    background-repeat: no-repeat;
+    background-position: 0 3px;
+}
+.grid-icon-column-header .x-column-header-inner {
+    padding: 0 4px;
+}
+.grid-edit-column-header .x-column-header-text {
+    background-image: url('../images/edit_16.png');
+}
+.grid-delete-column-header .x-column-header-text {
+    background-image: url('../images/delete_16.png');
+}
+.grid-print-column-header .x-column-header-text {
+    background-image: url('../images/print_16.png');
+}
+/*********************************************************************/
+
+
+/*********************************************************************/
+/*Relativo ao dataview da aprazamento_prescricao*/
+/*********************************************************************/
+.aprazamento-prescricao-view .x-panel-body{
+    background: transparent;
+    font: 10px Arial, Helvetica, sans-serif;
+}
+
+.aprazamento-prescricao-view .thumb{
+    background: transparent;
+    padding: 3px;
+    padding-bottom: 0;
+}
+
+.x-quirks .aprazamento-prescricao-view .thumb {
+    padding-bottom: 3px;
+}
+
+.aprazamento-prescricao-view .thumb img{
+    height: 32px;
+    width: 32px;
+}
+.aprazamento-prescricao-view .thumb-wrap{
+    float: left;
+    margin: 4px;
+    margin-right: 0;
+    padding: 5px;
+}
+.aprazamento-prescricao-view .thumb-wrap span {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+	font: 11px Arial, Helvetica, sans-serif;
+    width: 45px; /* for ie to ensure that the text is centered */
+	/*height: 40px;*/ /* for ie to ensure that the text is centered */
+}
+
+.aprazamento-prescricao-view .x-item-over{
+    border:1px solid #dddddd;
+    background: #efefef /*url(over.gif)*/ repeat-x left top;
+    padding: 4px;
+}
+
+.aprazamento-prescricao-view .x-item-selected{
+    background: #b0d0ff/*#eff5fb*/ /*url(selected.gif)*/ no-repeat right bottom;
+    border:1px solid #99bbe8;
+    padding: 4px;
+}
+.aprazamento-prescricao-view .x-item-selected .thumb{
+    background:transparent;
+}
+
+.aprazamento-prescricao-view .loading-indicator {
+    font-size:11px;
+    /*background-image:url('../../resources/themes/images/default/grid/loading.gif');*/
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left:20px;
+    margin:10px;
+}
+
+.x-view-selector {
+    position:absolute;
+    left:0;
+    top:0;
+    width:0;
+    border:1px dotted;
+    opacity: .5;
+    -moz-opacity: .5;
+    filter:alpha(opacity=50);
+    zoom:1;
+    background-color:#c3daf9;
+    border-color:#3399bb;
+}.ext-strict .ext-ie .x-tree .x-panel-bwrap{
+    position:relative;
+    overflow:hidden;
+}
+/*********************************************************************/
+
+
+/*********************************************************************/
+/*Relativo ao dataview do painel de internação*/
+/*********************************************************************/
+.painel-internacao-view .x-panel-body{
+    background: transparent;
+    font: 10px Arial, Helvetica, sans-serif;
+}
+
+.painel-internacao-view .thumb{
+    background: transparent;
+    padding: 4px;
+    padding-bottom: 0;
+	width: 144px;
+	/*height: 100px;*/
+}
+
+.x-quirks .painel-internacao-view .thumb {
+    padding-bottom: 3px;
+}
+
+.painel-internacao-view .thumb img{
+    height: 48px;
+    width: 48px;
+}
+.painel-internacao-view .thumb-wrap{
+    float: left;
+    margin: 4px;
+    margin-right: 0;
+    padding: 5px;
+	border:1px solid silver;
+}
+.painel-internacao-view .thumb-wrap span {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+	font: 11px Arial, Helvetica, sans-serif;
+    width: 141px; /* for ie to ensure that the text is centered */
+	/*height: 100px;*/ /* for ie to ensure that the text is centered */
+}
+
+.painel-internacao-view .thumb-wrap .titlebar  {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+	background: #f3f3f3;
+	/*color: white;*/
+	font: 11px Arial, Helvetica, sans-serif;
+    width: 141px; /* for ie to ensure that the text is centered */
+	height: 30px; /* for ie to ensure that the text is centered */
+}
+
+.painel-internacao-view .x-item-over{
+    border:1px solid #dddddd;
+    background: #efefef /*url(over.gif)*/ repeat-x left top;
+    padding: 5px;
+}
+
+.painel-internacao-view .x-item-selected{
+    background: #b0d0ff/*#eff5fb*/ /*url(selected.gif)*/ no-repeat right bottom;
+    border:1px solid #99bbe8;
+    padding: px;
+}
+.painel-internacao-view .x-item-selected .thumb{
+    background:transparent;
+}
+
+.painel-internacao-view .loading-indicator {
+    font-size:11px;
+    /*background-image:url('../../resources/themes/images/default/grid/loading.gif');*/
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-left:20px;
+    margin:10px;
+}
+
+.x-view-selector {
+    position:absolute;
+    left:0;
+    top:0;
+    width:0;
+    border:1px dotted;
+    opacity: .5;
+    -moz-opacity: .5;
+    filter:alpha(opacity=50);
+    zoom:1;
+    background-color:#c3daf9;
+    border-color:#3399bb;
+}.ext-strict .ext-ie .x-tree .x-panel-bwrap{
+    position:relative;
+    overflow:hidden;
+}
+/*********************************************************************/

@@ -1,0 +1,440 @@
+.x-btn-inner {
+    font-size: 12px !important;
+}
+
+.patient_32 {
+	background-image: url(../images/patient_32.png);
+	background-repeat: no-repeat;
+}
+.diagnostic_32 {
+	background-image: url(../images/diagnostic_32.png);
+	background-repeat: no-repeat;
+}
+.medical_history_32 {
+	background-image: url(../images/medical_history_32.png);
+	background-repeat: no-repeat;
+}
+.medical_bag_32 {
+	background-image: url(../images/medical_bag_32.png);
+	background-repeat: no-repeat;
+}
+.appointment_32 {
+	background-image: url(../images/appointment_32.png);
+	background-repeat: no-repeat;
+}
+.prescription_32 {
+	background-image: url(../images/prescription_32.png);
+	background-repeat: no-repeat;
+}
+.lab_32 {
+	background-image: url(../images/lab_32.png);
+	background-repeat: no-repeat;
+}
+.radiology_32 {
+	background-image: url(../images/radiology_32.png);
+	background-repeat: no-repeat;
+}
+.progress_notes_32 {
+	background-image: url(../images/progress_notes_32.png);
+	background-repeat: no-repeat;
+}
+.oncology_32 {
+	background-image: url(../images/oncology_32.png);
+	background-repeat: no-repeat;
+}
+.stethoscope_32 {
+	background-image: url(../images/stethoscope_32.png);
+	background-repeat: no-repeat;
+}
+.syringe_32 {
+	background-image: url(../images/syringe_32.png);
+	background-repeat: no-repeat;
+}
+.config_32 {
+	background-image: url(../images/config_32.png);
+	background-repeat: no-repeat;
+}
+.list_32 {
+	background-image: url(../images/list_32.png);
+	background-repeat: no-repeat;
+}
+.door_32 {
+	background-image: url(../images/door_32.png);
+	background-repeat: no-repeat;
+}
+.patient_ok_32 {
+	background-image: url(../images/patient_ok_32.png);
+	background-repeat: no-repeat;
+}
+.infirmary_config_32 {
+	background-image: url(../images/infirmary_config_32.png);
+	background-repeat: no-repeat;
+}
+.patient_information_32 {
+	background-image: url(../images/patient_information_32.png);
+	background-repeat: no-repeat;
+}
+.patient_help_32 {
+	background-image: url(../images/patient_help_32.png);
+	background-repeat: no-repeat;
+}
+.check_32 {
+	background-image: url(../images/check_32.png);
+	background-repeat: no-repeat;
+}
+.hourglass_32 {
+	background-image: url(../images/hourglass_32.png);
+	background-repeat: no-repeat;
+}
+.hospitalization_32 {
+	background-image: url(../images/hospitalization_32.png);
+	background-repeat: no-repeat;
+}
+.hospitalization_write_32 {
+	background-image: url(../images/hospitalization_write_32.png);
+	background-repeat: no-repeat;
+}
+.chief_of_staff_next_32 {
+	background-image: url(../images/chief_of_staff_next_32.png);
+	background-repeat: no-repeat;
+}
+.monitoring_32 {
+	background-image: url(../images/monitoring_32.png);
+	background-repeat: no-repeat;
+}
+.patient_information_clock_32 {
+	background-image: url(../images/patient_information_clock_32.png);
+	background-repeat: no-repeat;
+}
+.allergy_32 {
+	background-image: url(../images/allergy_32.png);
+	background-repeat: no-repeat;
+}
+.line_chart_32 {
+	background-image: url(../images/line_chart_32.png);
+	background-repeat: no-repeat;
+}
+.license_32 {
+	background-image: url(../images/license_32.png);
+	background-repeat: no-repeat;
+}
+.doctor_opinion_32 {
+	background-image: url(../images/doctor_opinion_32.png);
+	background-repeat: no-repeat;
+}
+.prescription_write_32 {
+	background-image: url(../images/prescription_write_32.png);
+	background-repeat: no-repeat;
+}
+.search_32 {
+	background-image: url(../images/search_32.png);
+	background-repeat: no-repeat;
+}
+.patient_find_32 {
+	background-image: url(../images/patient_find_32.png);
+	background-repeat: no-repeat;
+}
+.waitlist_32 {
+	background-image: url(../images/waitlist_32.png);
+	background-repeat: no-repeat;
+}
+.attended_list_32 {
+	background-image: url(../images/attended_list_32.png);
+	background-repeat: no-repeat;
+}
+.calendar_32 {
+	background-image: url(../images/calendar_32.png);
+	background-repeat: no-repeat;
+}
+.patient_schedule_32 {
+	background-image: url(../images/patient_schedule_32.png);
+	background-repeat: no-repeat;
+}
+.calendar_exam_32 {
+	background-image: url(../images/calendar_exam_32.png);
+	background-repeat: no-repeat;
+}
+.appointment_exam_32 {
+	background-image: url(../images/appointment_exam_32.png);
+	background-repeat: no-repeat;
+}
+.save_16 {
+	background-image: url(../images/save_16.png);
+	background-repeat: no-repeat;
+}
+.plus_16 {
+	background-image: url(../images/plus_16.png);
+	background-repeat: no-repeat;
+}
+.edit_16 {
+	background-image: url(../images/edit_16.png);
+	background-repeat: no-repeat;
+}
+.minus_16 {
+	background-image: url(../images/minus_16.png);
+	background-repeat: no-repeat;
+}
+.print_16 {
+	background-image: url(../images/print_16.png);
+	background-repeat: no-repeat;
+}
+.new_16 {
+	background-image: url(../images/new_16.png);
+	background-repeat: no-repeat;
+}
+.search_16 {
+	background-image: url(../images/search_16.png);
+	background-repeat: no-repeat;
+}
+.tick_16 {
+	background-image: url(../images/tick_16.png);
+	background-repeat: no-repeat;
+}
+.cancel_16 {
+	background-image: url(../images/cancel_16.png);
+	background-repeat: no-repeat;
+}
+.filter_16 {
+	background-image: url(../images/filter_16.png);
+	background-repeat: no-repeat;
+}
+.config_16 {
+	background-image: url(../images/config_16.png);
+	background-repeat: no-repeat;
+}
+.user_16 {
+	background-image: url(../images/user_16.png);
+	background-repeat: no-repeat;
+}
+.play_16 {
+	background-image: url(../images/play_16.png);
+	background-repeat: no-repeat;
+}
+.eye_16 {
+	background-image: url(../images/eye_16.png);
+	background-repeat: no-repeat;
+}
+.line_chart_16 {
+	background-image: url(../images/line_chart_16.png);
+	background-repeat: no-repeat;
+}
+.door_close_16 {
+	background-image: url(../images/door_close_16.png);
+	background-repeat: no-repeat;
+}
+.home_16 {
+	background-image: url(../images/home_16.png);
+	background-repeat: no-repeat;
+}
+.delete_16 {
+	background-image: url(../images/delete_16.png);
+	background-repeat: no-repeat;
+}
+.insert_text_16 {
+	background-image: url(../images/insert_text_16.png);
+	background-repeat: no-repeat;
+}
+.refresh_16 {
+	background-image: url(../images/refresh_16.png);
+	background-repeat: no-repeat;
+}
+.logoff_16 {
+	background-image: url(../images/logoff_16.png);
+	background-repeat: no-repeat;
+}
+.sort_ascending_16 {
+	background-image: url(../images/sort_ascending_16.png);
+	background-repeat: no-repeat;
+}
+.sound_16 {
+	background-image: url(../images/sound_16.png);
+	background-repeat: no-repeat;
+}
+.error_16 {
+	background-image: url(../images/error_16.png);
+	background-repeat: no-repeat;
+}
+.warning_16 {
+	background-image: url(../images/warning_16.png);
+	background-repeat: no-repeat;
+}
+.information_16 {
+	background-image: url(../images/information_16.png);
+	background-repeat: no-repeat;
+}
+.cleanup_16 {
+	background-image: url(../images/cleanup_16.png);
+	background-repeat: no-repeat;
+}
+.pausewatch_16 {
+	background-image: url(../images/pausewatch_16.png);
+	background-repeat: no-repeat;
+}
+.counter_reset_16 {
+	background-image: url(../images/counter_reset_16.png);
+	background-repeat: no-repeat;
+}
+.lock_16 {
+	background-image: url(../images/lock_16.png);
+	background-repeat: no-repeat;
+}
+.key_16 {
+	background-image: url(../images/key_16.png);
+	background-repeat: no-repeat;
+}
+.import_16 {
+	background-image: url(../images/import_16.png);
+	background-repeat: no-repeat;
+}
+.export_16 {
+	background-image: url(../images/export_16.png);
+	background-repeat: no-repeat;
+}
+.upload_16 {
+	background-image: url(../images/upload_16.png);
+	background-repeat: no-repeat;
+}
+.download_16 {
+	background-image: url(../images/download_16.png);
+	background-repeat: no-repeat;
+}
+.history_16 {
+	background-image: url(../images/history_16.png);
+	background-repeat: no-repeat;
+}
+.prescription_write_16 {
+	background-image: url(../images/prescription_write_16.png);
+	background-repeat: no-repeat;
+}
+.document_16 {
+	background-image: url(../images/document_16.png);
+	background-repeat: no-repeat;
+}
+.appointment_16 {
+	background-image: url(../images/appointment_16.png);
+	background-repeat: no-repeat;
+}
+.vertical_column_chart_16 {
+	background-image: url(../images/vertical_column_chart_16.png);
+	background-repeat: no-repeat;
+}
+.report_16 {
+	background-image: url(../images/report_16.png);
+	background-repeat: no-repeat;
+}
+.form_16 {
+	background-image: url(../images/form_16.png);
+	background-repeat: no-repeat;
+}
+.tick_24 {
+	background-image: url(../images/tick_24.png);
+	background-repeat: no-repeat;
+}
+.list_24 {
+	background-image: url(../images/list_24.png);
+	background-repeat: no-repeat;
+}
+.waitlist_24 {
+	background-image: url(../images/waitlist_24.png);
+	background-repeat: no-repeat;
+}
+.attended_list_24 {
+	background-image: url(../images/attended_list_24.png);
+	background-repeat: no-repeat;
+}
+.schedule_24 {
+	background-image: url(../images/schedule_24.png);
+	background-repeat: no-repeat;
+}
+.history_24 {
+	background-image: url(../images/history_24.png);
+	background-repeat: no-repeat;
+}
+.back_24 {
+	background-image: url(../images/back_24.png);
+	background-repeat: no-repeat;
+}
+.play_24 {
+	background-image: url(../images/play_24.png);
+	background-repeat: no-repeat;
+}
+.filter_24 {
+	background-image: url(../images/filter_24.png);
+	background-repeat: no-repeat;
+}
+.eye_24 {
+	background-image: url(../images/eye_24.png);
+	background-repeat: no-repeat;
+}
+.open_24 {
+	background-image: url(../images/open_24.png);
+	background-repeat: no-repeat;
+}
+.patient_24 {
+	background-image: url(../images/patient_24.png);
+	background-repeat: no-repeat;
+}
+.patient_find_24 {
+	background-image: url(../images/patient_find_24.png);
+	background-repeat: no-repeat;
+}
+.arrow_left_24 {
+	background-image: url(../images/arrow_left_24.png);
+	background-repeat: no-repeat;
+}
+.arrow_right_24 {
+	background-image: url(../images/arrow_right_24.png);
+	background-repeat: no-repeat;
+}
+.search_24 {
+	background-image: url(../images/search_24.png);
+	background-repeat: no-repeat;
+}
+.license_24 {
+	background-image: url(../images/license_24.png);
+	background-repeat: no-repeat;
+}
+.doctor_opinion_24 {
+	background-image: url(../images/doctor_opinion_24.png);
+	background-repeat: no-repeat;
+}
+.chief_of_staff_next_24 {
+	background-image: url(../images/chief_of_staff_next_24.png);
+	background-repeat: no-repeat;
+}
+.hospitalization_write_24 {
+	background-image: url(../images/hospitalization_write_24.png);
+	background-repeat: no-repeat;
+}
+.prescription_write_24 {
+	background-image: url(../images/prescription_write_24.png);
+	background-repeat: no-repeat;
+}
+.lab_24 {
+	background-image: url(../images/lab_24.png);
+	background-repeat: no-repeat;
+}
+.hospital_bed_busy_48 {
+	background-image: url(../images/hospital_bed_busy_48.png);
+	background-repeat: no-repeat;
+}
+.hospital_bed_tools_48 {
+	background-image: url(../images/hospital_bed_tools_48.png);
+	background-repeat: no-repeat;
+}
+.hospital_bed_48 {
+	background-image: url(../images/hospital_bed_48.png);
+	background-repeat: no-repeat;
+}
+.medical_release_16 {
+	background-image: url(../images/medical_release_16.png);
+	background-repeat: no-repeat;
+}
+.transfer {
+	background-image: url(../images/transfer_16.png);
+	background-repeat: no-repeat;
+}
+.hospitalization_16 {
+	background-image: url(../images/hospitalization_16.png);
+	background-repeat: no-repeat;
+}

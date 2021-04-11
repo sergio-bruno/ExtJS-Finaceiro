@@ -1,0 +1,35 @@
+[05-Apr-2017 08:33:55 America/Recife] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/h2lvc364/public_html/eHoplon/erp/controller/Global/UtilController.php:1) in /home/h2lvc364/public_html/eHoplon/erp/seguranca.php on line 2
+[05-Apr-2017 08:33:55 America/Recife] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/h2lvc364/public_html/eHoplon/erp/controller/Global/MenuPrincipalController.php:1) in /home/h2lvc364/public_html/eHoplon/erp/seguranca.php on line 2
+[05-Apr-2017 08:33:55 America/Recife] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/h2lvc364/public_html/eHoplon/erp/controller/Global/MenuPrincipalController.php:1) in /home/h2lvc364/public_html/eHoplon/erp/seguranca.php on line 2
+[05-Apr-2017 08:33:55 America/Recife] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli prepare error: Table 'h2lvc364_hoplon.FUNCIONALIDADE' doesn't exist' in /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement/Mysqli.php:77
+Stack trace:
+#0 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement.php(115): Zend_Db_Statement_Mysqli->_prepare('\n\t\t\t\tSELECT CD_...')
+#1 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Mysqli.php(381): Zend_Db_Statement->__construct(Object(Zend_Db_Adapter_Mysqli), '\n\t\t\t\tSELECT CD_...')
+#2 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Abstract.php(479): Zend_Db_Adapter_Mysqli->prepare('\n\t\t\t\tSELECT CD_...')
+#3 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Abstract.php(738): Zend_Db_Adapter_Abstract->query('\n\t\t\t\tSELECT CD_...', Array)
+#4 /home/h2lvc364/public_html/eHoplon/service/MenuService.php(77): Zend_Db_Adapter_Abstract->fetchAll('\n in /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement/Mysqli.php on line 77
+[05-Apr-2017 08:33:55 America/Recife] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/h2lvc364/public_html/eHoplon/erp/controller/Global/MenuPrincipalController.php:1) in /home/h2lvc364/public_html/eHoplon/erp/seguranca.php on line 2
+[05-Apr-2017 08:33:55 America/Recife] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli prepare error: Table 'h2lvc364_hoplon.FUNCIONALIDADE' doesn't exist' in /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement/Mysqli.php:77
+Stack trace:
+#0 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement.php(115): Zend_Db_Statement_Mysqli->_prepare('\n\t\t\t\tSELECT CD_...')
+#1 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Mysqli.php(381): Zend_Db_Statement->__construct(Object(Zend_Db_Adapter_Mysqli), '\n\t\t\t\tSELECT CD_...')
+#2 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Abstract.php(479): Zend_Db_Adapter_Mysqli->prepare('\n\t\t\t\tSELECT CD_...')
+#3 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Abstract.php(738): Zend_Db_Adapter_Abstract->query('\n\t\t\t\tSELECT CD_...', Array)
+#4 /home/h2lvc364/public_html/eHoplon/service/MenuService.php(77): Zend_Db_Adapter_Abstract->fetchAll('\n in /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement/Mysqli.php on line 77
+[05-Apr-2017 08:33:56 America/Recife] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/h2lvc364/public_html/eHoplon/erp/controller/Global/MenuPrincipalController.php:1) in /home/h2lvc364/public_html/eHoplon/erp/seguranca.php on line 2
+[05-Apr-2017 08:33:56 America/Recife] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/h2lvc364/public_html/eHoplon/erp/controller/Global/MenuPrincipalController.php:1) in /home/h2lvc364/public_html/eHoplon/erp/seguranca.php on line 2
+[05-Apr-2017 08:33:56 America/Recife] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli prepare error: Table 'h2lvc364_hoplon.FUNCIONALIDADE' doesn't exist' in /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement/Mysqli.php:77
+Stack trace:
+#0 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement.php(115): Zend_Db_Statement_Mysqli->_prepare('\n\t\t\t\tSELECT CD_...')
+#1 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Mysqli.php(381): Zend_Db_Statement->__construct(Object(Zend_Db_Adapter_Mysqli), '\n\t\t\t\tSELECT CD_...')
+#2 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Abstract.php(479): Zend_Db_Adapter_Mysqli->prepare('\n\t\t\t\tSELECT CD_...')
+#3 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Abstract.php(738): Zend_Db_Adapter_Abstract->query('\n\t\t\t\tSELECT CD_...', Array)
+#4 /home/h2lvc364/public_html/eHoplon/service/MenuService.php(77): Zend_Db_Adapter_Abstract->fetchAll('\n in /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement/Mysqli.php on line 77
+[05-Apr-2017 08:33:56 America/Recife] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/h2lvc364/public_html/eHoplon/erp/controller/Global/MenuPrincipalController.php:1) in /home/h2lvc364/public_html/eHoplon/erp/seguranca.php on line 2
+[05-Apr-2017 08:33:56 America/Recife] PHP Fatal error:  Uncaught exception 'Zend_Db_Statement_Mysqli_Exception' with message 'Mysqli prepare error: Table 'h2lvc364_hoplon.FUNCIONALIDADE' doesn't exist' in /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement/Mysqli.php:77
+Stack trace:
+#0 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement.php(115): Zend_Db_Statement_Mysqli->_prepare('\n\t\t\t\tSELECT CD_...')
+#1 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Mysqli.php(381): Zend_Db_Statement->__construct(Object(Zend_Db_Adapter_Mysqli), '\n\t\t\t\tSELECT CD_...')
+#2 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Abstract.php(479): Zend_Db_Adapter_Mysqli->prepare('\n\t\t\t\tSELECT CD_...')
+#3 /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Adapter/Abstract.php(738): Zend_Db_Adapter_Abstract->query('\n\t\t\t\tSELECT CD_...', Array)
+#4 /home/h2lvc364/public_html/eHoplon/service/MenuService.php(77): Zend_Db_Adapter_Abstract->fetchAll('\n in /home/h2lvc364/public_html/eHoplon/lib/ZendFramework/library/Zend/Db/Statement/Mysqli.php on line 77
